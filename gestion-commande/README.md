@@ -34,7 +34,7 @@ Pour ce pojet nous devons crée une application web de vente de sushi ou deux sc
 
 # La liste des plateaux
 
-![](images/plateaux.png)
+![](images/Plateaux1.png)
 
 # Définitoin d'une entitée objet pour la répresentation des données.
 ```
