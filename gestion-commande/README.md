@@ -26,7 +26,7 @@ Pour ce pojet nous devons crée une application web de vente de sushi ou deux sc
   }
 }
  ```
- ici nous recuperons nos boxes qui ce situe dans notre api 
+ ici nous recuperons nos boxes qui se situe dans notre api 
 
 # La liste des plateaux
 
@@ -83,7 +83,7 @@ voici nos 3 entitées pour la representation des données des Commandes , des pl
   }
 ```
  pour le calcul du montant total.
- ![](images/total.png)
+ 
 ```
   showDetails(template: TemplateRef<any>, plateau: Plateau) {
     this.modalRef = this.modalService.show(template);
@@ -163,4 +163,4 @@ ici le remove va permet de supprimer la donnée commandeEncours
 
 # Conclusion 
 
-Pour conclure il nous manque les testes unitaire , mais nous vous les transmeteron dans les jours a vennir si possible Merci.
+Pour conclure il nous manque les testes unitaire , mais nous vous les transmeterons dans les jours a vennir si possible Merci.
