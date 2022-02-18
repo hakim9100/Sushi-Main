@@ -161,6 +161,10 @@ ici le remove va permet de supprimer la donnée commandeEncours
 
 ![](images/rgpd.png)
 
+# Evil User Storie 
+
+![](images/Evil.png)
+
 # Conclusion 
 
-Pour conclure il nous manque les testes unitaire , mais nous vous les transmeterons dans les jours a vennir si possible Merci.
+Pour conclure ce projet nous a permis d'en apprendre d'avantage sur le framework Angular.
