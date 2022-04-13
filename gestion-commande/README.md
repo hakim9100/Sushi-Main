@@ -1,4 +1,4 @@
-# Equipe pour ce Ptrojet 
+# Equipe pour ce Projet 
 Ali Hakim ,
 Billy Sita et
 Valentino
